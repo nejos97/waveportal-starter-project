@@ -22,13 +22,29 @@
   text-align: center;
   color: gray;
   margin-top: 16px;
+  border: solid 2px green;
+  padding: 30px;
+  border-radius: 8px;
 }
 
+.message {
+  border: solid 2px green;
+  margin-top: 30px;
+  border-radius: 8px;
+
+}
+
+.card {
+  border: solid 2px pink;
+  padding: 10px;
+  margin: 20px;
+}
 .waveButton {
   cursor: pointer;
   margin-top: 16px;
   padding: 8px;
   border: 0;
-  border-radius: 5px;
+  border-radius: 8px;
+  height: 40px;
   
 }
